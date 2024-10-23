@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @i4leader
+- 👋 Hi, I’m Jack Tu.
 - 👀 I’m interested in any technology that can make me rich.
 - 🌱 I’m currently learning GenAI Tech like Comfyui, Flux.1, Stable difussion, Kuberneters and ChatGPT, OpenAI, Azure, AWS and GCP.
 - 💞️ I’m looking to collaborate on opensouce project.
-- 📫 How to reach me: jack.tu@ibays.net
+- 📫 How to reach me: jack.tu@ibays.net or my wechat jacktu4ever.
