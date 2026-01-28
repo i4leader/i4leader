@@ -2,4 +2,4 @@
 - 👀 I’m interested in any technology that can make me rich.
 - 🌱 I’m currently learning GenAI Tech like Comfyui, Flux, Stable difussion, Kuberneters and ChatGPT, OpenAI, Azure, AWS and GCP.
 - 💞️ I’m looking to collaborate on opensouce project.
-- 📫 How to reach me: i4leader@163.com or my wechat jacktu4ever.
+- 📫 How to reach me: i4leader@gmail.com.
